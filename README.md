@@ -2,7 +2,7 @@
 
 ## Requirements
 
-* MATLAB (or GNU Octave, if compatible)
+* MATLAB
 * Git
 
 ## Getting Started
